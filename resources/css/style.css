@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #f6f6f6;
+  font-family: 'Raleway', sans-serif;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 600px;
+}
+
+.title {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.cookie {
+  display: block;
+  max-height: 350px;
+  max-width: 350px;
+  margin: 0 auto;
+  text-align: center;
+  cursor: pointer;
+}
+
+.message {
+  font-weight: 700;
+  text-align: center;
+  font-size: 1.5rem;
+}
