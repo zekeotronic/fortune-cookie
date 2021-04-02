@@ -1,4 +1,4 @@
-const messages = [
+export const messages = [
   'A beautiful, smart, and loving person will be coming into your life.',
   'A dubious friend may be an enemy in camouflage.',
   'A faithful friend is a strong defense.',
